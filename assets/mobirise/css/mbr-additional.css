@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+
+#header4-0 P {
+  color: #b8312f;
+  font-size: 48px;
+  text-align: left;
+  font-family: 'PT Sans', sans-serif;
+}
+#msg-box4-2 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-2 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-2 .mbr-article {
+  color: #ffffff;
+}
